@@ -9,6 +9,7 @@ Turning security governance, risk and compliance into code, data and automation.
   <img src="https://img.shields.io/badge/CIPP%2FE-1f2937?style=flat-square" alt="CIPP/E"/>
   <img src="https://img.shields.io/badge/CCSK-1f2937?style=flat-square" alt="CCSK"/>
   <img src="https://img.shields.io/badge/ISO%2027001%20LA-1f2937?style=flat-square" alt="ISO 27001 Lead Auditor"/>
+  <img src="https://img.shields.io/badge/ISO%2027001%20LA-1f2937?style=flat-square" alt="ISO 42001 AIMS Lead Implementer"/>
   <img src="https://img.shields.io/badge/AWS%20SAA-1f2937?style=flat-square" alt="AWS Solutions Architect Associate"/>
 </p>
 
